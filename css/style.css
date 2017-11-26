@@ -97,5 +97,8 @@
     @media (max-width: 576px) {
       nav .container {
         width: 100%; }
+      header .image{
+        display:none;
+      }
       }
       
