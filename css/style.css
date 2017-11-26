@@ -98,7 +98,8 @@
       nav .container {
         width: 100%; }
       header .image{
-        display:none;
+        width:0%;
+        height:100%;
       }
       }
       
