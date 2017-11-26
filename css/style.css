@@ -98,7 +98,7 @@
       nav .container {
         width: 100%; }
       }
-      @media (max-width: 900px) {
+      @media (max-width: 576px) {
         #showcase {
           display: none; }
         }
